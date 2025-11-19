@@ -3,11 +3,10 @@
 A smart recipe recommendation system built with Streamlit that helps you find delicious recipes based on ingredients you have at home and your nutrition goals.
 
 ## Group Number : 6
- **Team Member 1** : Ajay Muppa (700769264)
- **Team Member 2** : Guntur Murali Lakshmi Prasanna (700768410)
- **Team Member 3** : Phani Pallavi Tallavajjhala (700766070)
 
-
+- **Team Member 1** : Ajay Muppa (700769264)
+- **Team Member 2** : Guntur Murali Lakshmi Prasanna (700768410)
+- **Team Member 3** : Phani Pallavi Tallavajjhala (700766070)
 
 ## Features
 
@@ -126,4 +125,5 @@ Built with:
 ---
 
 Enjoy cooking! 🍽️
+
 
